@@ -1,6 +1,5 @@
 package Oops.Inheritance;
 
-
 class Shape {
 
     public void displayArea(String name) {
