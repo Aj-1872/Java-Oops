@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "Oops.Interface.Interface",
+            "projectName": "code with harry_f70dd108"
+        },
+        {
+            "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "Oops.Abstract.Abstract",
+            "projectName": "code with harry_f70dd108"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "bank.Bank",
+            "projectName": "code with harry_f70dd108"
+        },
+        {
+            "type": "java",
+            "name": "InheritanceType",
+            "request": "launch",
+            "mainClass": "Oops.Inheritance.InheritanceType",
+            "projectName": "code with harry_f70dd108"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Oops.Basic",
+            "projectName": "code with harry_f70dd108"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Oops.Inheritance.Inheritance",
+            "projectName": "code with harry_f70dd108"
+        }
+    ]
+}
